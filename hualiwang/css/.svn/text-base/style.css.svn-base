@@ -1,0 +1,398 @@
+header{
+	width: 100%;
+	height: 0.8rem;
+	background: #ff6600;
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 6;
+}
+h1 img{
+	width:1.98rem ;
+	height:0.5rem ;
+}
+body{
+	background: #f3f3f5;
+	
+}
+h1{
+	padding: 2.5% 4% ;
+	box-sizing: border-box;
+	
+}
+article{
+	margin-top: 0.8rem;
+	padding-bottom: 0.96rem;
+}
+.iptflt{
+	width: 56%;
+	height: 0.5rem;
+ border-radius:0.06rem ;
+ background: #ff944c;
+ margin-top: 2.5%;
+ overflow: hidden;
+}
+.ipt1{
+	width: 80%;
+	height: 100%;
+	border: none;
+	outline: none;
+	
+	
+	box-sizing: border-box;
+	font-size: 0.24rem;
+	color: #fff;
+	background: #ff944c;
+}
+.icon-fangdajing{
+	font-size: 0.32rem !important ;
+	text-align: center;
+	line-height: 0.55rem;
+	color: #fff;
+	margin-left: 0.06rem;
+	margin-right: 0.06rem;
+}
+
+
+
+
+.ipt2{
+	outline: none;
+	border: none;
+	height: 100%;
+	width:7%;
+	padding: 0;
+	box-sizing: border-box;
+	color: #fff;
+	cursor: pointer;
+	background: #ff944c;		
+}
+.icon-maikefengxianxing{
+	font-size:0.32rem !important ;
+	margin-left:-0.04rem ;	
+	
+}
+
+.main .swiper-container{
+	
+	width: 100%;	
+}
+.main .swiper-slide a{
+	display: block;
+	
+}
+.main .swiper-slide img{
+	display: block;
+	width: 100%;	
+}
+.main .swiper-container .swiper-pagination-bullet{
+    background:rgba(255,255,255,0.9);
+    width:0.10rem;
+    height: 0.10rem;
+}
+.main .swiper-container .swiper-pagination-bullet-active{
+    background:rgba(214,16,30,0.8);
+    width:0.10rem;
+    height: 0.10rem;
+}
+.content-nav{
+	width: 100%;
+	height: 1.8rem;
+	background: #fff;
+	display: flex;
+}
+
+.content-nav a{
+	display: block;
+	flex: 1;
+	padding:0.28rem 0;
+	height: 1.8rem;
+	text-align: center;	
+	box-sizing: border-box;
+}
+.content-nav p{
+	font-size:0.24rem ;
+	line-height: 0.4rem;
+	color: #3f3f3f;
+	font-family: "楷体";
+	font-weight: 600;
+}
+.content-nav .iconfont{
+	width: 0.9rem;
+	height: 0.9rem;
+	border-radius: 50%;
+	color: #fff;
+
+	font-size: 0.54rem;
+	line-height: 0.9rem;
+	margin: 0 0.16rem;
+}
+.content-nav .icon-xianhua{
+	background: #fb8989;
+}
+.content-nav .icon-cake{
+	background: #de8dc5;
+}
+.content-nav .icon-weibiaoti1{
+	background: #77bae5;
+}
+.content-nav .icon-liwu{
+	background: #f6b365;
+}
+.content-nav .icon-gengduo{
+	background: #89d4c0;
+}
+.content-nav a .iconfont{
+	font-size: 0.66rem;
+}
+.exam{
+	width:100%;
+	height: 2.56rem;
+	display: flex;
+	margin-top: 0.28rem;
+	
+}
+.examgood{
+	background: #FFFFFF;
+	flex: 1;
+}
+.examgood:nth-of-type(2){
+	margin:0 0.02rem;
+}
+.examgood  .img{
+	text-align:center;
+	margin-top: ;
+}
+.examgood img{
+	height: 1.4rem;
+}
+
+.examgood h2{
+	margin-top: 0.16rem;
+	font-size: 0.24rem;
+	text-align: center;
+	line-height: 0.32rem;
+}
+.examgood p{
+	font-size: 0.14rem;
+	font-weight: 400;
+	text-align: center;
+	line-height:0.24rem;
+	color: #b3b3b3;
+}
+.examgood:nth-of-type(1) h2{
+	color: #f55746;
+}
+.examgood:nth-of-type(2) h2{
+	color: #f0b254;
+}
+.examgood:nth-of-type(3) h2{
+	color: #fb9ea1;
+}
+.classify{
+	width: 100%;
+}
+.classify  h3{
+	line-height: 0.6rem;
+	font-size: 0.3rem;
+	font-family: "楷体";
+	color: #484848;
+	margin-left:2% ;
+	
+}
+.more{
+	line-height: 0.54rem;
+	font-size: 0.24rem;
+	font-family: "楷体";
+	color: #9b9b9a;
+	margin-left:68% ;
+}
+.classify li{
+	width: 46.5%;
+	float: left;
+	margin-left:0.14rem ;
+	
+	box-sizing: border-box;
+	background: #fff;
+	height: 4rem;
+	margin-bottom:0.14rem ;
+}
+.classify li:nth-child(even){
+	margin-right:0.14rem ;
+}
+.classify li img{
+	width: 100%;
+}
+.classify p{
+	font-size: 0.22rem;
+	color: #9b9b9a;
+	line-height: 0.24rem;
+	font-family: "楷体";
+	text-align: center;
+}
+.classify .price{
+	font-size: 0.2rem;
+	line-height: 0.24rem;
+	color: #FF4343;
+	margin-top: 0.1rem;
+}
+.cake a{
+	width: 100%;
+	height: 1.54rem;
+}
+.cake img{
+	width: 100%;
+	height: 1.54rem;
+}
+.cake li{
+	width: 33%;
+	float: left;
+	height: 0.9rem;
+	margin:0 !important; 
+	
+}
+.cake li img{
+	width: 100%;
+	height: 0.9rem;
+}
+.giftexam{
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 0.28rem;
+}
+.giftg{
+	flex: 1;
+		
+	background: #fff;
+	margin-right: 0.02rem;
+}
+.giftg:last-of-type{
+	margin-right: 0;
+}
+.giftg h4{
+	font-size: 0.2rem;
+	line-height:0.24rem ;
+	margin-top: 0.16rem;
+	margin-left: 0.24rem;
+}
+.giftg p{
+	text-align: left;
+	margin-left: 0.24rem;
+	font-family: "微软雅黑";
+	font-size: 0.18rem;
+}
+.giftg img{
+	width: 100%;
+
+}
+.iconfont1{
+	margin:0.32rem auto  0 auto  ;
+	width: 0.9rem;
+	height: 0.9rem;
+	border-radius: 50%;
+	
+	background: #ff8333 url(../img/icon01.png) no-repeat center;
+	background-size:70% ;
+}
+.iconfont2{
+	margin:0.32rem auto  0 auto ;
+	width: 0.9rem;
+	height: 0.9rem;
+	border-radius: 50%;
+	
+	background: #ff8333 url(../img/icon02.png) no-repeat center;
+	background-size:70% ;
+}
+.iconfont3{
+	width: 0.9rem;
+	height: 0.9rem;
+	border-radius: 50%;
+	margin:0.32rem auto  0 auto  ;
+	background: #ff8333 url(../img/icon03.png) no-repeat center;
+	background-size:70% ;
+}
+.iconfont4{
+	width: 0.9rem;
+	height: 0.9rem;
+	border-radius: 50%;
+	margin:0.32rem auto  0 auto  ;
+	background: #ff8333 url(../img/icon04.png) no-repeat center;
+	background-size:70% ;
+}
+.secicona p{
+	font-size: 0.22rem;
+	font-family: "楷体";
+	text-align: center;
+	line-height: 0.36rem;
+	font-weight: 600;
+}
+.secicona{
+	flex: 1;
+	
+}
+.secicon{
+	display: flex;
+	background: #fff;
+}
+.telnum{
+	line-height: 0.64rem;
+}
+.tel{
+	height: 0.64rem;
+	width: 100%;
+	margin-top:0.02rem;
+	background: #fff;
+	font-size: 0.24rem !important;
+}
+.icon-tubiao210{
+	font-size: 0.18rem !important;
+	margin-left:40%;
+	
+}
+.icon-iconfonthuidingbu{
+	width:0.76rem;
+	height:0.76rem;
+	border-radius: 50%;
+	background: #ffa366;
+	color: #fff;
+	position: fixed;
+	right: 0.35rem;
+	bottom: 0.85rem;
+	font-size:0.65rem !important;
+	text-align: center;
+	padding-top: 0.1rem;
+	box-sizing: border-box;
+}
+footer{
+	
+	position: fixed;
+	height: 0.8rem;
+	width:100%;
+	background: #f8f8f8;
+	bottom: 0;
+	left: 0;
+}
+footer .iconfont{	
+	font-size: 0.36rem;
+}
+.active{
+	color: orangered;
+}
+footer p{
+	font-size: 0.18rem;
+	text-align: center;
+	font-family: "楷体";
+}
+footer ul{
+	
+	display: flex;
+}
+footer li{
+	margin-top: 0.1rem;
+	flex: 1;
+}
+footer a{
+	color: #4C4C4C;
+	-webkit-tap-highlight-color:rgba(255,0,0,0);
+}

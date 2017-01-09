@@ -1,0 +1,90 @@
+body{
+	background: #f3f3f6;
+}
+header{
+	background: #f9f9f9;
+	width: 100%;
+	height: 0.86rem;
+	line-height: 0.86rem;
+	font-size: 0.3rem;
+	text-align: center;
+	font-family: "楷体";
+	border-bottom: 0.02rem solid #d1d1d2;
+}
+.viewer{
+	height: 0.86rem;
+	width:100%;
+	text-align: left;
+	line-height: 0.86rem;
+	background: #fff;
+	border-bottom:0.02rem solid #d1d1d2 ;
+	
+}
+.viewer a{
+	display: block;
+	font-size: 0.26rem ;
+	font-family: "楷体";
+	color: #484848;
+	width: 100%;
+	position: absolute;
+}
+.viewer .hka{
+
+	font-size: 0.22rem;
+	color: #c6c6c6;
+	margin-left:12% ;
+	margin-bottom:;
+	
+	
+}
+.viewer .icon-jinru{
+	position: absolute;
+	top:-0.28rem;
+	right: 0.15rem;
+	color: #d1d1d2 !important;
+	font-size:0.28rem !important ;
+}
+.viewer .iconfont{
+	margin:  0.3rem;
+	color: #ff5800;
+	font-size: 0.42rem;
+}
+.viewer .icon-kafeicoffee61{
+	margin-left: 0.2rem;
+	margin-right: 0.2rem;
+}
+.viewer:first-of-type{
+	margin: 0.3rem 0;
+}
+footer{
+	
+	position: fixed;
+	height: 0.8rem;
+	width:100%;
+	background: #f8f8f8;
+	bottom: 0;
+	left: 0;
+}
+footer .iconfont{	
+	font-size: 0.36rem;
+}
+.active{
+	color: orangered;
+}
+footer p{
+	font-size: 0.18rem;
+	text-align: center;
+	font-family: "楷体";
+}
+footer ul{
+	
+	display: flex;
+}
+footer li{
+	margin-top: 0.1rem;
+	flex: 1;
+}
+footer a{
+	color: #4C4C4C;
+	-webkit-tap-highlight-color:rgba(255,0,0,0);
+}

@@ -1,0 +1,95 @@
+body{
+	background: #fff;
+}
+header{
+	background: #f9f9f9;
+	text-align: center;
+	width: 100%;
+	height: 0.8rem;
+	line-height: 0.8rem;
+	font-size: 0.3rem;
+	font-family: "楷体";
+	position: absolute;
+	border-bottom: 0.01rem solid #cccccc;
+	top: 0;
+	left: 0;
+	
+}
+header a{
+	line-height: 0.8rem;
+	font-size: 0.4rem!important;
+	color: #717173;
+	position: absolute;
+	left: 0.5rem;	
+}
+.main{
+	margin-top: 0.8rem;
+}
+ nav {
+ 	height: 0.8rem;
+ 	width: 100%;
+ 	
+ }
+nav ul{
+	height: 100%;
+	width: 100%;
+}
+
+nav li {
+	width: 25%;
+	height: 100%;
+	text-align: center;
+	line-height: 0.8rem;
+	border-left:0.02rem solid #cccccc;
+	border-bottom:0.02rem solid #cccccc;
+	box-sizing: border-box;
+	font-weight:500 ;
+	font-size:0.26rem ;
+}
+nav li:first-of-type{
+	border-left:none;
+}
+.active{
+	border-bottom:0.02rem solid #f00;
+	color: #f00;
+}
+.news img{
+	width: 2.85rem;
+	height: 3.50rem;
+	
+}
+.news li{
+	width: 2.9rem;
+	box-sizing: border-box;
+	border-radius: 0.08rem;
+	height: 4.6rem;
+	margin: 0.2rem  ;
+	margin-bottom: 0;
+	font-size: 0.24rem;
+	border: 0.01rem solid #DEDEDE;
+	text-align: center;
+}
+.news li:nth-of-type(2n){
+	margin-left: 0;
+}
+.news p{
+	padding-left:0.2rem ;
+	padding-right: 0.2rem;
+}
+.news span{
+	color: #f00;
+}
+.icon-iconfonthuidingbu{
+	width:0.76rem;
+	height:0.76rem;
+	border-radius: 50%;
+	background: #ffa366;
+	color: #fff;
+	position: fixed;
+	right: 0.35rem;
+	bottom: 0.85rem;
+	font-size:0.65rem !important;
+	text-align: center;
+	padding-top: 0.1rem;
+	box-sizing: border-box;
+}

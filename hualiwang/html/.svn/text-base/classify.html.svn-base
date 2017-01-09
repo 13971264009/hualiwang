@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>花礼网-分类</title>
+		<link rel="stylesheet" href="../css/ba.css" />
+		<link rel="stylesheet" type="text/css" href="../css/classify.css"/>
+		<link rel="stylesheet" type="text/css" href="http://at.alicdn.com/t/font_jkobk24sgnak0529.css"/>
+		<script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+		<script type="text/javascript" src="../js/classify.js"></script>
+			
+		
+	</head>
+	<body>
+		<header>
+			<div class="iptflt flt">
+				<div class="flt iconfont icon-fangdajing"></div>
+				<input type="" class="ipt1 flt" value="请输入关键字" />
+				<button class="ipt2 frt"><spna class="iconfont icon-maikefengxianxing"></spna></button>
+			</div>
+		</header>
+		<div class="main">
+			<div class="leftc">
+				
+				<div class="sort num1 pick">常用分类</div>
+				<div class="sort num2 ">鲜花</div>
+				<div class="sort num3">商务鲜花</div>
+				<div class="sort num4">永生花</div>
+				<div class="sort num5">蛋糕</div>
+				<div class="sort num6">特色礼品</div>
+				<div class="sort num7">品牌公仔</div>
+				<div class="sort num8">礼篮</div>
+				<div class="sort num9">绿植花卉</div>
+				<div class="sort num10">巧克力</div>
+				
+			</div>
+			<div class="rightc">
+				<div class="sort1 numc1 pickc">
+					<img src="../img/class01.png"/>
+					<h3>常用分类</h3>
+					<ul>
+						<li class="flt"><a href="gooditem.html"><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href="gooditem.html"><img src="../img/num2.png"/><p>商务鲜花</p></a></li>
+						<li class="flt"><a href="gooditem.html"><img src="../img/num3.png"/><p>永生花</p></a></li>
+						<li class="flt"><a href="gooditem.html"><img src="../img/num4.png"/><p>蛋糕</p></a></li>
+						<li class="flt"><a href="gooditem.html"><img src="../img/num5.png"/><p>特色礼品</p></a></li>
+						<li class="flt"><a href="gooditem.html"><img src="../img/num6.png"/><p>品牌公仔</p></a></li>
+						<li class="flt"><a href="gooditem.html"><img src="../img/num7.png"/><p>礼篮</p></a></li>
+						<li class="flt"><a href="gooditem.html"><img src="../img/num8.png"/><p>绿植花卉</p></a></li>
+					</ul>
+				</div>
+				<div class="sort1 numc2 ">
+					<img src="../img/class01.png"/>
+					<h3>用途</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+					
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+					</ul>
+					</div>
+					<h3>花材</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/g2.png"/><p>玫瑰</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>康乃馨</p></a></li>
+						<li class="flt"><a href=""><img src="../img/g2.png"/><p>郁金香</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>百合</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>向日葵</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>玫瑰</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>康乃馨</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>郁金香</p></a></li>
+						
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>向日葵</p></a></li>
+					</ul>
+					</div>
+					<h3>颜色</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><div class="col red"></div><p class="p">红色</p></a></li>
+						<li class="flt"><a href=""><div class="col pink"></div><p class="p">粉色</p></a></li>
+						<li class="flt"><a href=""><div class="col xiangb"></div><p class="p">香槟色</p></a></li>
+						<li class="flt"><a href=""><div class="col yel"></div><p class="p">黄色</p></a></li>
+						<li class="flt"><a href=""><div class="col whit"></div><p class="p">白色</p></a></li>
+						<li class="flt"><a href=""><div class="col pur"></div><p class="p">紫色</p></a></li>
+						<li class="flt"><a href=""><div class="col blw"></div><p class="p">蓝色</p></a></li>
+					</ul>
+					</div>
+					
+				</div>
+				<div class="sort1 numc3 ">
+					<img src="../img/class01.png"/>
+					<h3>商务鲜花</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+					
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+					</ul>
+					</div>
+					<h3>花材</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/g2.png"/><p>玫瑰</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>康乃馨</p></a></li>
+						<li class="flt"><a href=""><img src="../img/g2.png"/><p>郁金香</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>百合</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>向日葵</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>玫瑰</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>康乃馨</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>郁金香</p></a></li>
+						
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>向日葵</p></a></li>
+					</ul>
+					</div>
+					<h3>颜色</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><div class="col red"></div><p>红色</p></a></li>
+						<li class="flt"><a href=""><div class="col pink"></div><p>粉色</p></a></li>
+						<li class="flt"><a href=""><div class="col xiangb"></div><p>香槟色</p></a></li>
+						<li class="flt"><a href=""><div class="col yel"></div><p>黄色</p></a></li>
+						<li class="flt"><a href=""><div class="col whit"></div><p>白色</p></a></li>
+						<li class="flt"><a href=""><div class="col pur"></div><p>紫色</p></a></li>
+						<li class="flt"><a href=""><div class="col blw"></div><p>蓝色</p></a></li>
+					</ul>
+					</div>
+				</div>
+				<div class="sort1 numc4 ">
+					<img src="../img/class01.png"/>
+					<h3>永生花</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+					
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+					</ul>
+					</div>
+					<h3>花材</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/g2.png"/><p>玫瑰</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>康乃馨</p></a></li>
+						<li class="flt"><a href=""><img src="../img/g2.png"/><p>郁金香</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>百合</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>向日葵</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>玫瑰</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>康乃馨</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>郁金香</p></a></li>
+						
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>向日葵</p></a></li>
+					</ul>
+					</div>
+					<h3>颜色</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><div class="col red"></div><p>红色</p></a></li>
+						<li class="flt"><a href=""><div class="col pink"></div><p>粉色</p></a></li>
+						<li class="flt"><a href=""><div class="col xiangb"></div><p>香槟色</p></a></li>
+						<li class="flt"><a href=""><div class="col yel"></div><p>黄色</p></a></li>
+						<li class="flt"><a href=""><div class="col whit"></div><p>白色</p></a></li>
+						<li class="flt"><a href=""><div class="col pur"></div><p>紫色</p></a></li>
+						<li class="flt"><a href=""><div class="col blw"></div><p>蓝色</p></a></li>
+					</ul>
+					</div>
+				</div>
+				<div class="sort1 numc5 ">
+					<img src="../img/class01.png"/>
+					<h3>蛋糕</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+					
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+					</ul>
+					</div>
+					<h3>花材</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/g2.png"/><p>玫瑰</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>康乃馨</p></a></li>
+						<li class="flt"><a href=""><img src="../img/g2.png"/><p>郁金香</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>百合</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>向日葵</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>玫瑰</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>康乃馨</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>郁金香</p></a></li>
+						
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>向日葵</p></a></li>
+					</ul>
+					</div>
+					<h3>颜色</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><div class="col red"></div><p>红色</p></a></li>
+						<li class="flt"><a href=""><div class="col pink"></div><p>粉色</p></a></li>
+						<li class="flt"><a href=""><div class="col xiangb"></div><p>香槟色</p></a></li>
+						<li class="flt"><a href=""><div class="col yel"></div><p>黄色</p></a></li>
+						<li class="flt"><a href=""><div class="col whit"></div><p>白色</p></a></li>
+						<li class="flt"><a href=""><div class="col pur"></div><p>紫色</p></a></li>
+						<li class="flt"><a href=""><div class="col blw"></div><p>蓝色</p></a></li>
+					</ul>
+					</div>
+				</div>
+				<div class="sort1 numc6 ">
+					<img src="../img/class01.png"/>
+					<h3>特色礼品</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+					
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+					</ul>
+					</div>
+					<h3>花材</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/g2.png"/><p>玫瑰</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>康乃馨</p></a></li>
+						<li class="flt"><a href=""><img src="../img/g2.png"/><p>郁金香</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>百合</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>向日葵</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>玫瑰</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>康乃馨</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>郁金香</p></a></li>
+						
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>向日葵</p></a></li>
+					</ul>
+					</div>
+					<h3>颜色</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><div class="col red"></div><p>红色</p></a></li>
+						<li class="flt"><a href=""><div class="col pink"></div><p>粉色</p></a></li>
+						<li class="flt"><a href=""><div class="col xiangb"></div><p>香槟色</p></a></li>
+						<li class="flt"><a href=""><div class="col yel"></div><p>黄色</p></a></li>
+						<li class="flt"><a href=""><div class="col whit"></div><p>白色</p></a></li>
+						<li class="flt"><a href=""><div class="col pur"></div><p>紫色</p></a></li>
+						<li class="flt"><a href=""><div class="col blw"></div><p>蓝色</p></a></li>
+					</ul>
+					</div>
+				</div>
+				<div class="sort1 numc7 ">
+					<img src="../img/class01.png"/>
+					<h3>品牌公仔</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+					
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+					</ul>
+					</div>
+					<h3>花材</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/g2.png"/><p>玫瑰</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>康乃馨</p></a></li>
+						<li class="flt"><a href=""><img src="../img/g2.png"/><p>郁金香</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>百合</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>向日葵</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>玫瑰</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>康乃馨</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>郁金香</p></a></li>
+						
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>向日葵</p></a></li>
+					</ul>
+					</div>
+					<h3>颜色</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><div class="col red"></div><p>红色</p></a></li>
+						<li class="flt"><a href=""><div class="col pink"></div><p>粉色</p></a></li>
+						<li class="flt"><a href=""><div class="col xiangb"></div><p>香槟色</p></a></li>
+						<li class="flt"><a href=""><div class="col yel"></div><p>黄色</p></a></li>
+						<li class="flt"><a href=""><div class="col whit"></div><p>白色</p></a></li>
+						<li class="flt"><a href=""><div class="col pur"></div><p>紫色</p></a></li>
+						<li class="flt"><a href=""><div class="col blw"></div><p>蓝色</p></a></li>
+					</ul>
+					</div>
+				</div>
+				<div class="sort1 numc8 ">
+					<img src="../img/class01.png"/>
+					<h3>礼篮</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+					
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+					</ul>
+					</div>
+					<h3>花材</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/g2.png"/><p>玫瑰</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>康乃馨</p></a></li>
+						<li class="flt"><a href=""><img src="../img/g2.png"/><p>郁金香</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>百合</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>向日葵</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>玫瑰</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>康乃馨</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>郁金香</p></a></li>
+						
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>向日葵</p></a></li>
+					</ul>
+					</div>
+					
+				</div>
+				<div class="sort1 numc9 ">
+					<img src="../img/class01.png"/>
+					<h3>绿植花卉</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+					
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+					</ul>
+					</div>
+					<h3>花材</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/g2.png"/><p>玫瑰</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>康乃馨</p></a></li>
+						<li class="flt"><a href=""><img src="../img/g2.png"/><p>郁金香</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>百合</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>向日葵</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>玫瑰</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>康乃馨</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>郁金香</p></a></li>
+						
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>向日葵</p></a></li>
+					</ul>
+					</div>
+					<h3>颜色</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><div class="col red"></div><p class="p">红色</p></a></li>
+						<li class="flt"><a href=""><div class="col pink"></div><p class="p">粉色</p></a></li>
+						<li class="flt"><a href=""><div class="col xiangb"></div><p class="p">香槟色</p></a></li>
+						<li class="flt"><a href=""><div class="col yel"></div><p class="p">黄色</p></a></li>
+						<li class="flt"><a href=""><div class="col whit"></div><p class="p">白色</p></a></li>
+						<li class="flt"><a href=""><div class="col pur"></div><p class="p">紫色</p></a></li>
+						<li class="flt"><a href=""><div class="col blw"></div><p class="p">蓝色</p></a></li>
+					</ul>
+					</div>
+				</div>
+				<div class="sort1 numc9 ">
+					<img src="../img/class01.png"/>
+					<h3>巧克力</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>爱情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+					
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>友情鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>生日鲜花</p></a></li>
+					</ul>
+					</div>
+					<h3>花材</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/g2.png"/><p>玫瑰</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>康乃馨</p></a></li>
+						<li class="flt"><a href=""><img src="../img/g2.png"/><p>郁金香</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>百合</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>向日葵</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>鲜花</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>玫瑰</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>康乃馨</p></a></li>
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>郁金香</p></a></li>
+						
+						<li class="flt"><a href=""><img src="../img/num1.png"/><p>向日葵</p></a></li>
+					</ul>
+					</div>
+					<h3>颜色</h3>
+					<div class="ul">
+					<ul class="clearfix">
+						<li class="flt"><a href=""><div class="col red"></div><p class="p">红色</p></a></li>
+						<li class="flt"><a href=""><div class="col pink"></div><p class="p">粉色</p></a></li>
+						<li class="flt"><a href=""><div class="col xiangb"></div><p class="p">香槟色</p></a></li>
+						<li class="flt"><a href=""><div class="col yel"></div><p class="p">黄色</p></a></li>
+						<li class="flt"><a href=""><div class="col whit"></div><p class="p">白色</p></a></li>
+						<li class="flt"><a href=""><div class="col pur"></div><p class="p">紫色</p></a></li>
+						<li class="flt"><a href=""><div class="col blw"></div><p class="p">蓝色</p></a></li>
+					</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		
+		<footer>
+			<ul>
+				<li ><a href="index.html" ><p class="iconfont icon-shouyeshouye "></p><p >首页</p></a></li>
+				<li><a href="classify.html"><p class="iconfont icon-fenlei active"></p><p class="active">分类</p></a></li>
+				<li><a href="flowershow.html"><p class="iconfont icon-faxian"></p><p>花现</p></a></li>
+				<li><a href="itemcar.html"><p class="iconfont icon-gouwuche"></p><p>购物车</p></a></li>
+				<li><a href="inform.html"><p class="iconfont icon-my"></p><p>我的</p></a></li>
+			</ul>
+		</footer>
+	</body>
+	<script type="text/javascript">
+		
+	</script>
+</html>

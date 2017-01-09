@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>花礼网-首页</title>
+		<link rel="stylesheet" href="../css/ba.css" />
+		<link rel="stylesheet" type="text/css" href="../css/style.css"/>
+		<link rel="stylesheet" type="text/css" href="../css/swiper.min.css"/>
+		
+		<link rel="stylesheet" type="text/css" href="http://at.alicdn.com/t/font_jkobk24sgnak0529.css"/>
+	</head>
+	<body>
+		<header class="clearfix">
+			<h1 class="flt "><img src="../img/p1.png"/></h1>
+			<div class="iptflt flt">
+				<div class="flt iconfont icon-fangdajing"></div>
+				<input type="" class="ipt1 flt" value="请输入关键字" />
+				<button class="ipt2 flt"><spna class="iconfont icon-maikefengxianxing"></spna></button>
+			</div>
+		</header>
+		<article class="main clearfix">			
+			<div class="swiper-container">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide">
+						<a href="javascript:;" class="banner">
+							<img src="../img/banner3.png"/>
+						</a>
+					</div>
+					<div class="swiper-slide">
+						<a href="javascript:;" class="banner">
+							<img src="../img/banner2.png"/>
+						</a>
+					</div>
+					<div class="swiper-slide">
+						<a href="javascript:;" class="banner">
+							<img src="../img/banner1.png"/>
+						</a>
+					</div>
+				</div>
+				 <!-- Add Pagination -->
+        		<div class="swiper-pagination"></div>
+
+			</div>
+			
+			<section class="content-nav">
+				<a href="gooditem.html">
+					<div class="iconfont icon-xianhua"></div>
+					<p>鲜花 </p>
+				</a>
+				<a href="gooditem.html">
+					<div class="iconfont icon-cake"></div>
+					<p>蛋糕</p>
+				</a>
+				<a href="gooditem.html">
+					<div class="iconfont icon-weibiaoti1"></div>
+					<p>永生花</p>
+				</a>
+				<a href="gooditem.html">
+					<div class="iconfont icon-liwu"></div>
+					<p>特色礼品</p>
+				</a>
+				<a href="gooditem.html">
+					<div class="iconfont icon-gengduo"></div>
+					<p>更多</p>
+				</a>
+				
+			</section>
+			<div class="exam">
+				<div class="examgood flt">
+					<h2>新品鲜花</h2>
+					<p>新款驾到</p>
+					<div class="img"><img src="../img/g1.png"  />	</div>				
+				</div>
+				<div class="examgood flt">
+					<h2>爱情鲜花</h2>
+					<p>拿下女神如此简单</p>
+					<div class="img"><img src="../img/g2.png"  />	</div>		
+				</div>
+				<div class="examgood flt">
+					<h2>蛋糕食代</h2>
+					<p>爱与美味共享</p>
+					<div class="img"><img src="../img/g3.png"  />	</div>			
+				</div>
+			</div>
+			<div class="classify">
+				<h3>热卖鲜花<a class="more">更多</a></h3>
+				<ul class="clearfix">
+					<li>
+						<a href="details.html">
+						<div align="center"><img src="../img/hotg1.png" alt=""></img></div>
+						<p>一心一意</p>
+						<p class="price">￥420</p>
+						</a>
+					</li>
+					<li>
+						<a href="details.html">
+						<div align="center"><img src="../img/hotg1.png" alt=""></img></div>
+						<p>一心一意</p>
+						<p class="price">￥420</p>
+						</a>
+					</li>
+					<li>
+						<a href="details.html">
+						<div align="center"><img src="../img/hotg1.png" alt=""></img></div>
+						<p>一心一意</p>
+						<p class="price">￥420</p>
+						</a>
+					</li>
+					<li>
+						<a href="details.html">
+						<div align="center"><img src="../img/hotg1.png" alt=""></img></div>
+						<p>一心一意</p>
+						<p class="price">￥420</p>
+						</a>
+					</li>
+					<li>
+						<a href="details.html">
+						<div align="center"><img src="../img/hotg1.png" alt=""></img></div>
+						<p>一心一意</p>
+						<p class="price">￥420</p>
+						</a>
+					</li>
+					<li>
+						<a href="details.html">
+						<div align="center"><img src="../img/hotg1.png" alt=""></img></div>
+						<p>一心一意</p>
+						<p class="price">￥420</p>
+						</a>
+					</li>
+					<li>
+						<a href="details.html">
+						<div align="center"><img src="../img/hotg1.png" alt=""></img></div>
+						<p>一心一意</p>
+						<p class="price">￥420</p>
+						</a>
+					</li>
+					<li>
+						<a href="details.html">
+						<div align="center"><img src="../img/hotg1.png" alt=""></img></div>
+						<p>一心一意</p>
+						<p class="price">￥420</p>
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="classify cake">
+				<h3>生日蛋糕<a class="more">更多</a></h3>
+				<a href=""><img src="../img/cake.png"/></a>
+				<ul class="clearfix">
+					<li><a href=""><img src="../img/brand01.png"/></a></li>
+					<li><a href=""><img src="../img/brand02.png"/></a></li>
+					<li><a href=""><img src="../img/brand03.png"/></a></li>
+					<li><a href=""><img src="../img/brand04.png"/></a></li>
+					<li><a href=""><img src="../img/brand05.png"/></a></li>
+					<li><a href=""><img src="../img/brand06.png"/></a></li>
+					<li><a href=""><img src="../img/brand07.png"/></a></li>
+					<li><a href=""><img src="../img/brand08.png"/></a></li>
+					<li><a href=""><img src="../img/brand09.png"/></a></li>					
+				</ul>
+			</div>
+			<div class="classify gift">
+				<h3>特色礼品<a class="more">更多</a></h3>
+				<div class="giftexam clearfix">
+					<div class="giftg">
+						<h4>金箔花</h4>
+						<p>999 纯金箔玫瑰</p>
+						<a href=""><img src="../img/gif01.png"/></a>
+						
+					</div>
+					
+					<div class="giftg">
+						<h4>水晶钢琴</h4>
+						<p>爱与美味共享</p>
+						<a href=""><img src="../img/gif02.png"/></a>
+						
+					</div>
+					
+					<div class="giftg">
+						<h4>永生花</h4>
+						<p>进口厄尔瓜多玫瑰</p>
+						<a href=""><img src="../img/gif03.png"/></a>
+						
+					</div>
+					
+				</div>
+			</div>
+			
+			<div class="secicon">
+				<div class="secicona">
+					<div class="iconfont1"></div>
+					<p>十一年品牌</p>
+				</div>
+				
+				<div class="secicona">
+					<div class="iconfont2"></div>
+					<p>龙头企业</p>
+				</div>
+				
+				<div class="secicona">
+					<div class="iconfont3"></div>
+					<p>3小时送达</p>
+				</div>
+				
+				<div class="secicona">
+					<div class="iconfont4"></div>
+					<p>最近16万+评价</p>
+				</div>
+			</div>
+			
+			<div class="tel">
+				<span class="iconfont icon-tubiao210"><span class="telnum">400-889-8188</span></span>
+			</div>
+		</article>
+		<div class="iconfont icon-iconfonthuidingbu goTop"></div>
+		<footer>
+			<ul>
+				<li ><a href="index.html" ><p class="iconfont icon-shouyeshouye active"></p><p class="active">首页</p></a></li>
+				<li><a href="classify.html"><p class="iconfont icon-fenlei"></p><p>分类</p></a></li>
+				<li><a href="flowershow.html"><p class="iconfont icon-faxian"></p><p>花现</p></a></li>
+				<li><a href="itemcar.html"><p class="iconfont icon-gouwuche"></p><p>购物车</p></a></li>
+				<li><a href="inform.html"><p class="iconfont icon-my"></p><p>我的</p></a></li>
+			</ul>
+		</footer>
+	</body>
+	<script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+	<script src="../js/swiper.jquery.min.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript" src="../js/index.js"></script>
+	
+</html>

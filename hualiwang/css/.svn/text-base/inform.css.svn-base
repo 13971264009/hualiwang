@@ -1,0 +1,169 @@
+header{
+	height: 2.4rem;
+	width: 100%;
+	background: url(../img/loginbb.png) no-repeat;
+	background-size:cover ;
+	overflow: hidden;
+}
+header .icon-shezhi{
+	font-size: 0.54rem;
+	color:#fff;
+	margin-left: 5.72rem;
+	margin-top: 0.12rem;
+}
+header p{
+	text-align: center;
+	color: #fff;
+	font-size: 0.28rem;
+	font-family: "楷体";
+}
+header .login{
+	width: 1.74rem;
+	height: 0.5rem;
+	background: #fff;
+	
+	margin: 0.24rem auto;
+}
+.login a{
+	color: #b4b2b2;
+	margin: 0 auto;
+	display: block;
+	font-size: 0.32rem ;
+	text-align: center;
+	line-height: 0.5rem;
+	font-family: "楷体";
+}
+body{
+	background: #f3f3f6;
+}
+.carnews{
+	height: 1.32rem;
+	width: 100%;
+	background: #fff;
+	text-align: center;
+}
+.carnews a{
+	display: block;
+	width: 25%;
+	
+	font-size: 0.5rem;
+	color: #666666;
+	margin-top: 0.3rem;
+}
+.carnews .iconfont{
+	font-size: 0.5rem;line-height: 0.5rem;
+}
+.carnews p{
+	font-size: 0.2em;
+	font-family: "楷体";
+}
+.feature{
+	width: 100%;
+	min-height:4.8rem ;
+	margin:0.18rem 0;
+	text-align: center;
+	
+}
+.feature a{
+	width: 25%;
+	height: 1.56rem;
+	box-sizing: border-box;
+	border-left: 0.03rem solid #f3f3f6;
+	border-top: 0.03rem solid #f3f3f6;
+	background: #fff;
+}
+.feature p{
+	font-size: 0.2rem;
+	font-family: "楷体";
+	margin-top: 0.08rem;
+	color: #666666;
+}
+.feature .iconfont{
+	font-size: 0.5rem;line-height: 0.5rem;
+	margin-top: 25%;
+}
+.feature a:nth-of-type(4n-3){
+	border-left: none !important;
+}
+.icon-youhuijuan{
+	color: #ffa1a1;
+}
+.icon-zhuanshi{
+	color: #ffe4c7;
+}
+.icon-yue{
+	color: #fe761a;
+}
+.icon-8{
+	color: #fedcb8;
+}
+.icon-naozhong{
+	color: #fe6200;
+}
+.icon-eye{
+	color: #80c4e7;
+}
+.icon-guanzhu{
+	color: #fe5800;
+}
+.icon-fukuan{
+	color: #93d768;
+}
+.icon-lianxikefu{
+	color: #87c7e9;
+}
+.icon-help{
+	color: #98d96e;
+}
+.icon-guanyu-copy{
+	color: #ff8c8c;
+}
+.manger{
+	box-sizing: border-box;
+	width: 100%;
+	height: 0.7rem;
+	background: #fff;
+	line-height: 0.7rem;
+	font-size: 0.24rem;
+	font-family: "楷体";
+	padding-left: 0.2rem;
+	margin-bottom: 0.8rem;
+}
+.manger a{
+	color: #777777;
+	font-family: "楷体";
+	margin-left: 3rem;
+}
+footer{
+	
+	position: fixed;
+	height: 0.8rem;
+	width:100%;
+	background: #f8f8f8;
+	bottom: 0;
+	left: 0;
+	
+}
+footer .iconfont{	
+	font-size: 0.36rem;
+}
+.active{
+	color: orangered;
+}
+footer p{
+	font-size: 0.18rem;
+	text-align: center;
+	font-family: "楷体";
+}
+footer ul{
+	
+	display: flex;
+}
+footer li{
+	margin-top: 0.1rem;
+	flex: 1;
+}
+footer a{
+	color: #4C4C4C;
+	-webkit-tap-highlight-color:rgba(255,0,0,0);
+}

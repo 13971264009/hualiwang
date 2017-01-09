@@ -1,0 +1,260 @@
+body{
+	background: #f0efed;
+}
+header{
+	background: #f9f9f9;
+	text-align: center;
+	width: 100%;
+	height: 0.8rem;
+	line-height: 0.8rem;
+	font-size: 0.3rem;
+	font-family: "楷体";
+	position: absolute;
+	border-bottom: 0.01rem solid #cccccc;
+	top: 0;
+	left: 0;
+}
+header a{
+	line-height: 0.8rem;
+	font-size: 0.4rem!important;
+	color: #717173;
+	
+	
+}
+.icon-fanhui{
+	position: absolute;
+	left: 0.5rem;
+}
+.icon-dingshi{
+	position: absolute;
+	left: 5rem;
+}
+.icon-gengduo{
+	position: absolute;
+	left: 5.6rem;
+	font-size: 0.4rem!important;
+}
+.main{
+	margin-top: 0.81rem;
+	color: #747474;
+	border-bottom: 0.02rem solid #e4e4e3; 
+}
+.swiper-container img{
+	width: 100%;
+	height: 5.9rem;
+}
+.describe{
+	background: #fff;
+}
+.describe h5{
+	font-size: 0.3rem;
+	text-align: center;
+	font-weight: 500;
+	line-height: 0.5rem;
+}
+.describe .newg{
+	font-size: 0.3rem;
+	padding-left: 0.12rem;
+	color: #f75600;
+	line-height: 0.5rem;
+}
+.price{
+	padding-left: 0.12rem;
+	font-size: 0.3rem;
+	color: #f75600;
+}
+.newprice{
+	padding-left: 0.12rem;
+	color: #f75600;
+	font-weight: 600;
+	padding-bottom: 0.2rem;
+	margin-top: 0.1rem;
+}
+.zxprice{
+	width: 1.1rem;
+	height: 0.3rem;
+	border: 0.01rem solid #f75600;
+	margin-right: 0.05rem;
+	
+}
+.icon-shouji{
+	color: #FFF;
+	background:#f75600;
+	font-size: 0.3em;
+	height: 0.3rem;
+}
+.foner{
+	padding-left: 0.12rem;
+	font-size: 0.2rem;
+	line-height: 0.44rem;
+	font-weight: 500;
+	background: #fff;
+}
+.foner span{
+	color: #ad9649;
+}
+.moreinform{
+	background: #fff;
+	width:6.1rem;
+	height: 0.5rem;
+	font-size: 0.2rem;
+	border: 0.02rem solid #dfdfdf;
+	margin: 0.3rem auto;
+	text-align: center;
+	line-height: 0.5rem;
+}
+.icon-jinru{
+	font-size: 0.2rem!important;
+	color: #dfdfdf;
+}
+.middle{
+	margin-bottom: 0.9rem;
+	background: #fff;
+	padding-left: 0.2rem;
+	                          
+}
+.middle h4{
+	font-size: 0.3rem;
+	line-height: 0.96rem;
+	font-weight: 500;
+}
+.talk{
+	height: 2.2rem;
+	margin-left: 0.2rem;
+	border-top: 0.02rem solid #dfdfdf;
+	border-bottom: 0.02rem solid #dfdfdf;
+}
+.talk img{
+	height: 0.9rem;
+	width: 0.85rem;
+	border: 0.02rem solid #dfdfdf;
+	margin-top: 0.12rem;
+	
+	
+}
+.talk .icon-wujiaoxingman{
+	font-size: 0.28rem;
+	color: #F75600;
+
+}
+
+#adress{
+	margin-left: 2.4rem;
+}
+.talk1{
+	font-size: 0.18rem;
+	font-weight: 500;
+	line-height: 0.6rem;
+}
+.user{
+	font-size: 0.36rem!important;
+}
+.ph{
+	font-size: 0.2rem!important;
+	text-align: center;
+	color: #9b9b9b;
+}
+.ipdi{
+	margin-left: 1rem;
+}
+
+.mmtalk{
+	line-height: 0.64rem;
+	font-size: 0.24rem;
+	text-align: center;
+	color: #f06706;
+}
+
+
+.other{
+	width: 100%;
+	height: 0.28rem;
+	font-size: 0.24rem;
+	border-top: 0.02rem solid #dfdfdf;
+}
+.other1{
+	height: 100%;
+	width: 33%;
+	line-height: 0.6rem;
+	text-align: center;
+	font-size:0.2rem ;
+}
+
+.othershow{
+	width: 100%;
+	height: 2rem;
+	overflow: hidden;
+
+} 
+.othershow ul{
+	width: 100%;
+	height: ;2rem
+}
+.othershow img{
+	width: 1.15rem;
+	height: 1.25rem;
+}
+.othershow li{
+	margin-top:  0.2rem;
+	margin-right: 0.35rem;
+	margin-left: 0.35rem;
+	
+}
+.othershow p{
+	text-align: center;
+	color: #fe6d0c;
+}
+footer .iconfont{
+	font-size: 0.4rem;
+}
+footer p{
+	text-align: center;
+	
+}
+.guanzhu{
+	margin-left: 0.72rem;
+	
+}
+.car{
+	margin-left: 1.3rem;
+}
+.join{
+	width: 2.5rem;
+	height: 0.75rem;
+	text-align: center;
+	line-height: 0.75rem;
+	background: #fd6d0c;
+	border-radius:0.08rem ;
+	margin-left: 0.8rem;
+	color: #fff;
+	font-size: 0.3rem;
+	
+	
+}
+.join a{
+	text-align: center;
+	line-height: 0.75rem;
+	color: #fff;
+	font-size: 0.3rem;
+}
+footer{
+	position: fixed;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	background: #fff;
+}
+.icon-iconfonthuidingbu{
+	width:0.76rem;
+	height:0.76rem;
+	border-radius: 50%;
+	background: #ffa366;
+	color: #fff;
+	position: fixed;
+	right: 0.35rem;
+	bottom: 0.85rem;
+	font-size:0.65rem !important;
+	text-align: center;
+	padding-top: 0.1rem;
+	box-sizing: border-box;
+}
